@@ -18,6 +18,7 @@ df | table_to_json.sh`
  - $3 - username, 
  - $4 - password; 
  - $5 - cmd to exec
+ 
 `./table_to_json.sh <1> IP/DNS username password "CMD to exec"`
 
 ### Column names will be transformed to Capital leters:
